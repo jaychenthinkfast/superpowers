@@ -1,0 +1,20 @@
+{
+  "name": "superpowers-local",
+  "description": "Local superpowers upstream v7.0.2 with WorkBuddy plugin adapter",
+  "owner": {
+    "name": "Jesse Vincent",
+    "email": "jesse@fsck.com"
+  },
+  "plugins": [
+    {
+      "name": "superpowers-upstream",
+      "description": "Superpowers 上游 v7.0.2 集成版：保留 WorkBuddy 插件适配层（commands / hooks / agents / lib）",
+      "version": "7.0.2",
+      "source": "./",
+      "author": {
+        "name": "Jesse Vincent",
+        "email": "jesse@fsck.com"
+      }
+    }
+  ]
+}
